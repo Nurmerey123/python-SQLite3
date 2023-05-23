@@ -22,3 +22,4 @@ with sq.connect("employee.db") as con:
                     ('maks','jeff', 'draiver', 'JeffMaks@gmail.com', 26))
     con.commit()
     print("hello")
+    fskjpseu
